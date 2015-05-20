@@ -134,7 +134,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         status = status or HTTP_STATUS_OK
         self.send_response(status, "OK")
         self.end_headers()
-        self.wfile.write(messages)
+        self.wfile.write(message)
 
 
 if __name__ == "__main__":
