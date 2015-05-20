@@ -1,0 +1,16 @@
+{
+        "careers": [
+            {"id": 1, "name": "Programer"},
+            {"id": 2, "name": "Student"}
+        ],
+
+        "people": [
+            {"id": 1, "name": "Rosangela", "careers_id": 2},
+            {"id": 2, "name": "Vinicius", "careers_id": 1},
+            {"id": 3, "name": "Leticia", "careers_id": 2},
+            {"id": 4, "name": "Jefferson", "careers_id": 1},
+            {"id": 5, "name": "Carol", "careers_id": 2},
+            {"id": 6, "name": "Pedro", "careers_id": 1},
+            {"id": 7, "name": "Marcelo", "careers_id": 1}
+        ]
+}
