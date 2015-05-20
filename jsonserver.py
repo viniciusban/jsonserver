@@ -11,6 +11,9 @@ THIS IS A WORK IN PROGRESS.
 
 """
 
+# Model for this program:
+# - http://stackoverflow.com/questions/23475615/how-do-i-send-and-receive-http-post-requests-in-python
+
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 import json
 
